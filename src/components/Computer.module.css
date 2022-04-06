@@ -1,0 +1,9 @@
+.cmp{
+    position: absolute;
+    border-color: white;
+    margin-left: 10px;
+    height: 70%;
+    width: 61%;  
+    top: 10rem;
+    left: 0rem; 
+}

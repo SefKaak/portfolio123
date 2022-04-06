@@ -1,0 +1,40 @@
+.brg{
+    position: absolute;
+    border-color: white;
+    width: 50%;  
+    top: 12rem;
+    left: 0rem; 
+}
+
+@media only screen and (max-width: 768px ) {
+    .brg{
+        position: absolute;
+        border-color: white;
+        width: 100%;  
+        top: 15rem;
+        left: 0rem; 
+    }
+    
+}
+
+@media only screen and (max-width: 600px ) {
+    .brg{
+        position: absolute;
+        border-color: white;
+        width: 100%;  
+        top: 22rem;
+        left: 0rem; 
+    }
+    
+}
+
+@media only screen and (min-width: 768px ) {
+    
+    .brg{
+        position: absolute;
+        border-color: white;
+        width: 50%;  
+        top: 12rem;
+        left: 0rem; 
+    }
+}

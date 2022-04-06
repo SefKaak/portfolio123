@@ -1,0 +1,36 @@
+.container{
+    margin-top: 150px;
+    margin-left: 750px;
+    size: 30px;
+}
+
+.row {
+    margin-top: 15px;
+}
+
+label{
+    color: black;
+    font-size: 18px;
+    font-weight: 900; 
+}
+
+
+input{
+    border-radius: 2rem;
+    height: 50px;
+    width: 400px;  
+    color: black;
+    font-size: 18px;
+    font-weight: 600; 
+    
+}
+
+.message{
+    height: 200px;
+    width: 400px; 
+}
+.bouton{
+    height: 50px;
+    width: 150px;
+    cursor: pointer;
+}
