@@ -16,7 +16,7 @@ export default function App() {
      <div className="App">
 
       <Routes>
-        <Route path="/portfolio123" element={<Layout />}>
+        <Route path="/" element={<Layout />}>
         <Route index  element={<Accueil />}/>
         <Route path="projet1" element={<Projet1 />}/>
         <Route path="projet2" element={<Projet2 />} />
