@@ -1,4 +1,13 @@
+.itemContainer a{
+    display: inline;
+    align-items: center;
+    margin-right: 1cm;
+  text-decoration: none;
+    bottom: 0;
+    color: black;
+   font-size: large;
 
+}
 
 
 @media only screen and (max-width: 768px ) {
