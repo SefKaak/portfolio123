@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2933c18.css",
+    "main.js": "/static/js/main.ba49cb28.js",
+    "static/css/155.3548b746.chunk.css": "/static/css/155.3548b746.chunk.css",
+    "static/js/155.6356bec2.chunk.js": "/static/js/155.6356bec2.chunk.js",
+    "static/css/571.8342dd5a.chunk.css": "/static/css/571.8342dd5a.chunk.css",
+    "static/js/571.2a77bf92.chunk.js": "/static/js/571.2a77bf92.chunk.js",
+    "static/css/941.99f81c09.chunk.css": "/static/css/941.99f81c09.chunk.css",
+    "static/js/941.9d247b91.chunk.js": "/static/js/941.9d247b91.chunk.js",
+    "static/css/427.de00452b.chunk.css": "/static/css/427.de00452b.chunk.css",
+    "static/js/427.6e237db4.chunk.js": "/static/js/427.6e237db4.chunk.js",
+    "static/js/787.dbbd0357.chunk.js": "/static/js/787.dbbd0357.chunk.js",
+    "static/media/burger.png": "/static/media/burger.65056c4dd999cec641c5.png",
+    "static/media/metier.png": "/static/media/metier.be46f507c263f5fac391.png",
+    "static/media/image1.jpeg": "/static/media/image1.9bce344a2136b4a83c3b.jpeg",
+    "static/media/background.jpg": "/static/media/background.cd93f632b1985466fdc1.jpg",
+    "index.html": "/index.html",
+    "main.c2933c18.css.map": "/static/css/main.c2933c18.css.map",
+    "main.ba49cb28.js.map": "/static/js/main.ba49cb28.js.map",
+    "155.3548b746.chunk.css.map": "/static/css/155.3548b746.chunk.css.map",
+    "155.6356bec2.chunk.js.map": "/static/js/155.6356bec2.chunk.js.map",
+    "571.8342dd5a.chunk.css.map": "/static/css/571.8342dd5a.chunk.css.map",
+    "571.2a77bf92.chunk.js.map": "/static/js/571.2a77bf92.chunk.js.map",
+    "941.99f81c09.chunk.css.map": "/static/css/941.99f81c09.chunk.css.map",
+    "941.9d247b91.chunk.js.map": "/static/js/941.9d247b91.chunk.js.map",
+    "427.de00452b.chunk.css.map": "/static/css/427.de00452b.chunk.css.map",
+    "427.6e237db4.chunk.js.map": "/static/js/427.6e237db4.chunk.js.map",
+    "787.dbbd0357.chunk.js.map": "/static/js/787.dbbd0357.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2933c18.css",
+    "static/js/main.ba49cb28.js"
+  ]
+}
